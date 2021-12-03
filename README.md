@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ognengineer
 - 👀 I’m interested in Test Automation, QA and Mountain biking...
-- 💞️ I’m looking to collaborate on cypress test aoutomation projects
+- 💞️ I’m looking to collaborate on cypress test projects
 - 📫 lazarevski86@gmail.com ...
 
 <!---
